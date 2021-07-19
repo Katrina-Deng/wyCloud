@@ -1,0 +1,8 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "w-header": "/components/WHeader/WHeader",
+    "uni-search-bar": "/uni_modules/uni-search-bar/components/uni-search-bar/uni-search-bar",
+    "m-for-skeleton": "/components/m-for-skeleton/m-for-skeleton"
+  }
+}
